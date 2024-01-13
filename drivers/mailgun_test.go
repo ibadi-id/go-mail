@@ -15,8 +15,8 @@ package drivers
 
 import (
 	"errors"
-	mocks "github.com/ainsleyclark/go-mail/internal/mocks/client"
-	"github.com/ainsleyclark/go-mail/mail"
+	mocks "github.com/ibadi-id/go-mail/internal/mocks/client"
+	"github.com/ibadi-id/go-mail/mail"
 	"log"
 	"net/http"
 )

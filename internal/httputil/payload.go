@@ -17,7 +17,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/ainsleyclark/go-mail/internal/errors"
+	"github.com/ibadi-id/go-mail/internal/errors"
 	"io"
 	"mime/multipart"
 )

@@ -2,7 +2,7 @@ package errors
 
 import (
 	"fmt"
-	"github.com/ainsleyclark/go-mail/mail"
+	"github.com/ibadi-id/go-mail/mail"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

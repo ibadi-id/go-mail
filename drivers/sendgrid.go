@@ -17,9 +17,9 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/ainsleyclark/go-mail/internal/client"
-	"github.com/ainsleyclark/go-mail/internal/httputil"
-	"github.com/ainsleyclark/go-mail/mail"
+	"github.com/ibadi-id/go-mail/internal/client"
+	"github.com/ibadi-id/go-mail/internal/httputil"
+	"github.com/ibadi-id/go-mail/mail"
 	"net/http"
 )
 

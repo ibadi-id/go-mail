@@ -1,4 +1,4 @@
-module github.com/ainsleyclark/go-mail
+module github.com/ibadi-id/go-mail
 
 go 1.18
 

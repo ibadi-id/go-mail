@@ -16,9 +16,9 @@ package client
 import (
 	"context"
 	"fmt"
-	"github.com/ainsleyclark/go-mail/internal/errors"
-	"github.com/ainsleyclark/go-mail/internal/httputil"
-	"github.com/ainsleyclark/go-mail/mail"
+	"github.com/ibadi-id/go-mail/internal/errors"
+	"github.com/ibadi-id/go-mail/internal/httputil"
+	"github.com/ibadi-id/go-mail/mail"
 	"io"
 	"net/http"
 	"strings"

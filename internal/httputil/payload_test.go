@@ -14,7 +14,7 @@
 package httputil
 
 import (
-	"github.com/ainsleyclark/go-mail/internal/errors"
+	"github.com/ibadi-id/go-mail/internal/errors"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"mime/multipart"

@@ -14,8 +14,8 @@
 package mail
 
 import (
-	"github.com/ainsleyclark/go-mail/drivers"
-	"github.com/ainsleyclark/go-mail/mail"
+	"github.com/ibadi-id/go-mail/drivers"
+	"github.com/ibadi-id/go-mail/mail"
 	"os"
 	"strconv"
 	"testing"

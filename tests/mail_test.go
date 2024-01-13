@@ -15,7 +15,7 @@ package mail
 
 import (
 	"fmt"
-	"github.com/ainsleyclark/go-mail/mail"
+	"github.com/ibadi-id/go-mail/mail"
 	"github.com/joho/godotenv"
 	"github.com/stretchr/testify/assert"
 	"net/http"
